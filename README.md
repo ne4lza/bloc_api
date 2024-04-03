@@ -1,7 +1,7 @@
 # bloc_api
-BlocBuilder => Column
-BlocListener => MultiBlocListener
-BlocProvider => MultiBlocProvider
+BlocBuilder => Column \n
+BlocListener => MultiBlocListener \n
+BlocProvider => MultiBlocProvider \n
 
 ## Getting Started
 
